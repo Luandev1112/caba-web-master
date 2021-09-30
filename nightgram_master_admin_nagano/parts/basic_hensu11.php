@@ -1,0 +1,29 @@
+<?php
+$id = $row['id'];
+$url = $row['url'];
+$shop_id2 = $row['shop_id2'];
+$shop_pass = $row['shop_pass'];
+$shop_name = $row['shop_name'];
+$daihyo = $row['daihyo'];
+$add = $row['add'];
+$tell = $row['tell'];
+$mail = $row['mail'];
+$time1 = $row['time1'];
+$data1 = $row['data1'];
+$data2 = $row['data2'];
+$data3 = $row['data3'];
+$data4 = $row['data4'];
+$data5b = $row['data5b'];
+$data6 = $row['data6'];
+$data7 = $row['data7'];
+$data8 = $row['data8'];
+$data9 = $row['data9'];
+$data10 = $row['data10'];
+$time2 = $row['time2'];
+$time3 = $row['time3'];
+$time4 = $row['time4'];
+$group_id = $row['group_id'];
+$portal = $row['portal'];
+
+$edittime = str_replace("\r\n" , "" , $edittime); //改行コードを削除
+?>
